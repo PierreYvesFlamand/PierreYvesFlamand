@@ -18,10 +18,10 @@
 
 ---
 
-#### :zap: Most Used Languages :
-
 ![Pierre-Yves's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreYvesFlamand&layout=compact)
 
-#### :zap: GitHub Stats :
+![Pierre-Yves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true)
 
-![Pierre-Yves's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true)
+#### :zap: GitHub Activity
+
+<!--START_SECTION:activity-->
