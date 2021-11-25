@@ -19,14 +19,13 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1691](https://github.com/MelvorIdle/melvoridle.github.io/issues/1691) in [MelvorIdle/melvoridle.github.io](https://github.com/MelvorIdle/melvoridle.github.io)
-2. 🎉 Merged PR [#1](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates/pull/1) in [PierreYvesFlamand/Melvor-Items-Drop-Rates](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates)
-3. 💪 Opened PR [#1](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates/pull/1) in [PierreYvesFlamand/Melvor-Items-Drop-Rates](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates)
-<!--END_SECTION:activity-->
+  <br />
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 </details>
