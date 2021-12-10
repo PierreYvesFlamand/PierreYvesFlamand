@@ -25,7 +25,7 @@
 #### :zap: GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1691](https://github.com/MelvorIdle/melvoridle.github.io/issues/1691) in [MelvorIdle/melvoridle.github.io](https://github.com/MelvorIdle/melvoridle.github.io)
-2. 🎉 Merged PR [#1](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates/pull/1) in [PierreYvesFlamand/Melvor-Items-Drop-Rates](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates)
-3. 💪 Opened PR [#1](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates/pull/1) in [PierreYvesFlamand/Melvor-Items-Drop-Rates](https://github.com/PierreYvesFlamand/Melvor-Items-Drop-Rates)
+1. 🎉 Merged PR [#1](https://github.com/PierreYvesFlamand/Wellness-Directory/pull/1) in [PierreYvesFlamand/Wellness-Directory](https://github.com/PierreYvesFlamand/Wellness-Directory)
+2. 💪 Opened PR [#1](https://github.com/PierreYvesFlamand/Wellness-Directory/pull/1) in [PierreYvesFlamand/Wellness-Directory](https://github.com/PierreYvesFlamand/Wellness-Directory)
+3. ❗️ Opened issue [#1691](https://github.com/MelvorIdle/melvoridle.github.io/issues/1691) in [MelvorIdle/melvoridle.github.io](https://github.com/MelvorIdle/melvoridle.github.io)
 <!--END_SECTION:activity-->
