@@ -1,6 +1,6 @@
 ### Hi there, I'm Pierre-Yves 👋 
 
-[![https://www.pierreyvesflamand.com](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_message=Visit&url=https%3A%2F%2Fwww.pierreyvesflamand.com)](https://www.pierreyvesflamand.com)
+[![https://www.pierreyvesflamand.com](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_message=Visit&url=https://www.pierreyvesflamand.com)](https://www.pierreyvesflamand.com)
 
 ### Languages and Tools:
 
