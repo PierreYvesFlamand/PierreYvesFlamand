@@ -18,14 +18,6 @@
 
 ---
 
-![Pierre-Yves's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreYvesFlamand&layout=compact)
+![Pierre-Yves's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreYvesFlamand&layout=compact&hide_border=true&theme=dark)
 
-![Pierre-Yves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true)
-
-#### :zap: GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/PierreYvesFlamand/Wellness-Directory/pull/2) in [PierreYvesFlamand/Wellness-Directory](https://github.com/PierreYvesFlamand/Wellness-Directory)
-2. 💪 Opened PR [#2](https://github.com/PierreYvesFlamand/Wellness-Directory/pull/2) in [PierreYvesFlamand/Wellness-Directory](https://github.com/PierreYvesFlamand/Wellness-Directory)
-3. 🎉 Merged PR [#1](https://github.com/PierreYvesFlamand/Wellness-Directory/pull/1) in [PierreYvesFlamand/Wellness-Directory](https://github.com/PierreYvesFlamand/Wellness-Directory)
-<!--END_SECTION:activity-->
+![Pierre-Yves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true&theme=dark)
