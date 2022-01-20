@@ -34,8 +34,4 @@ class PierreYves extends CoolDev {
 -[------->+<]>.-[->++++<]>.---[->++++<]>-.++.-----..-.++++.++++[->+++<]>.--[--->+<]>-.--[->++++<]>+.----------.++++++.-[---->+<]>+++.-[--->++<]>+.+++.+.++++++++.+[---->+<]>++.++++[->++<]>+.-[->++++<]>.++[--->++<]>.---.++.------.--[--->+<]>-.---[->++++<]>-.+.+.-----.-------.-----.-[--->+<]>-.++[--->++<]>.-----------.+++++++++++++.-------.--[--->+<]>--.[->+++<]>++.++++++.--.[--->+<]>----.+[---->+<]>+++.+[----->+<]>+.+.++++++++.+[---->+<]>++.---[->++<]>.++++++++++.
 ```
 
----
-
 ![Pierre-Yves's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreYvesFlamand&layout=compact&hide_border=true&theme=dark)
-
-![Pierre-Yves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PierreYvesFlamand&show_icons=true&hide_border=true&theme=dark)
