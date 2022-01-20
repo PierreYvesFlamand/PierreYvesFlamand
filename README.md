@@ -3,7 +3,7 @@
 [![https://www.pierreyvesflamand.com](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_message=Visit&url=https://www.pierreyvesflamand.com)](https://www.pierreyvesflamand.com)
 
 ```js
-class PierreYves extend CoolDev {
+class PierreYves extends CoolDev {
   constructor() {
     super();
 
