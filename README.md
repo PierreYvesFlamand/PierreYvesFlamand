@@ -11,8 +11,9 @@ class PierreYves extends CoolDev {
     this.lastName   = "Flamand";
     this.age        = 25;
     this.gender     = "Male";
-
+    
     this.onlineName = "Polfy";
+    this.dogName    = "Feeling";
   }
 
   getLanguages() {
