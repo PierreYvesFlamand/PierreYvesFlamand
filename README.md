@@ -14,7 +14,11 @@ class PierreYves {
   }
 
   getLanguages() {
-    return ["Html", "Css", "Sass", "JavaScript", "React", "NodeJS", "Php"];
+    return ["Html", "Css", "Sass", "JavaScript", "Php"];
+  }
+
+  getSkills() {
+    return ["React", "NodeJS", "WordPress"];
   }
 
   getTools() {
