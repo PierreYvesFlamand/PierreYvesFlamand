@@ -26,7 +26,7 @@ class Pierre-Yves extends CoolDev {
   }
 
   get backendSkills() {
-    return ["NodeJS", "ExpressJS", "Php "Symfony", "Laravel", "Lumen"]
+    return ["NodeJS", "ExpressJS", "Php", "Symfony", "Laravel", "Lumen"]
   }
 
   get databaseSkills() {
