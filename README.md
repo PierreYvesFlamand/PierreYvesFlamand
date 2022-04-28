@@ -21,6 +21,10 @@ class Pierre-Yves extends CoolDev {
     return `${this.constructor.name} ${this.lastName}`
   }
 
+  get mainSkills() {
+    return ["Googling", "Distinguishing good StackOverflow answers from bad"]
+  }
+
   get frontendSkills() {
     return ["Html", "Css", "JS", "Sass", "React", "Angular", "Bootstrap"]
   }
@@ -34,7 +38,7 @@ class Pierre-Yves extends CoolDev {
   }
 
   get otherSkills() {
-    return ["Docker", "Git", "Postman", "Photoshop", "Googling"]
+    return ["Docker", "Git", "Postman", "Photoshop"]
   }
 }
 ```
